@@ -1,5 +1,5 @@
 
-#	Top 117 C# interview questions and answers in 2021.
+#	Top C# interview questions and answers.
 
 
 ## 1. What is C#?
